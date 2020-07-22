@@ -15,7 +15,7 @@ I also have a few respositories related to my research. These are usually based 
 # Contact info
 [Twitter](https://twitter.com/Bud_T)
 [telegram](https://t.me/Bud_W0RMT)
-[email](mailto:robert.m.talbot@gmail.com)
+[email](mailto:robert.m.talbot@gmail.com)  
 
 <!--
 **RobertMTalbot/RobertMTalbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
