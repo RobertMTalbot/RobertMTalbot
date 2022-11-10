@@ -12,12 +12,12 @@ I'm an amateur radio operator (US call: W0RMT; former Australian call: VK3BUD) m
 ## My projects
 Most of my limited stuff on GitHub is focused on digital amateur radio projects like hotspots, [pi-star by Andy Taylor MW0MWZ](https://github.com/AndyTaylorTweet/Pi-Star_DV_Dash), [MMDVM reflector lists managed by Jonathan Naylor G4KLX](https://github.com/g4klx), and the [OpenGD77 project from Roger Clark VK3KYY](https://github.com/rogerclarkmelbourne/OpenGD77).
 
-I also have a few videos on my [YouTube channel] (https://www.youtube.com/@BudTalbot) related to amateur and wildland fire radio communication. 
+I also have a few videos on my [YouTube channel](https://www.youtube.com/@BudTalbot) related to amateur and wildland fire radio communication. 
 
 I also have a few respositories related to my science education research. These are usually based around R code for network and regression analyses.
 
 # Contact info
-[Mastodon] (https://fosstodon.org/web/@bud_t)
+[Mastodon](https://fosstodon.org/web/@bud_t)
 
 [Twitter](https://twitter.com/Bud_T)
 
