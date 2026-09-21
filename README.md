@@ -19,8 +19,6 @@ I also have a few respositories related to my science education research. These 
 # Contact info
 [Mastodon](https://fosstodon.org/web/@bud_t)
 
-[Twitter](https://twitter.com/Bud_T)
-
 [telegram](https://t.me/Bud_W0RMT)
 
 [email](mailto:robert.m.talbot@gmail.com)
